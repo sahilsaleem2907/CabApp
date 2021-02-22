@@ -4,5 +4,5 @@
 
 ## Rider App
 
-![Image1](ss_1.png) ![Image2](ss_2.png) ![Image3](ss_3.png)
+![Image1](Screenshots/ss_1.png) ![Image2](ss_2.png) ![Image3](ss_3.png)
 
