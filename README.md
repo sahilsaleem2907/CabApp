@@ -12,9 +12,6 @@
 
 ![Image1](Screenshots/ss_1.png) ![Image2](Screenshots/ss_2.png) ![Image3](Screenshots/ss_3.png)
 
-## Driver App
-Coming soon ...
-
 ### Key
 If using the project make sure to replace mapKey='' with your own key available from gcp.
 
